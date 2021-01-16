@@ -1,0 +1,4 @@
+# ignoruj oblibene veci
+oblibene_veci.txt
+# popr. ignoruj vsechny .txt soubory
+*.txt
